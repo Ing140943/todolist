@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# This is todo list web-application         
+This is react web application that I start to implement the react. I create the todolist to represent what's the plan that we want to do on that day. 
+
+## Function
+* Create the todo list
+* The list can edit if you want to provide more information
+* Delete the task
+* Complete the task when we finish the tasks
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -61,9 +70,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
